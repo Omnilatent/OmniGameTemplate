@@ -1,0 +1,3 @@
+[submodule "OmniGameTemplate/Assets/Omnilatent/OmniAdsManager"]
+	path = OmniGameTemplate/Assets/Omnilatent/OmniAdsManager
+	url = https://github.com/Omnilatent/OmniAdsManager.git

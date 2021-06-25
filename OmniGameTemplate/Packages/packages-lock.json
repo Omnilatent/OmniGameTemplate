@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.omnilatent.firebasemanager": {
+      "version": "https://github.com/Omnilatent/OmniFirebaseManager.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "497d7c13a53d119af2a80d3791e6d607e2b7c3f3"
+    },
+    "com.omnilatent.litjson": {
+      "version": "https://github.com/Omnilatent/UnityLitJson.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4494ce7a30989304c29bf376023f52ca0d644b15"
+    },
     "com.unity.2d.animation": {
       "version": "3.2.3",
       "depth": 0,
