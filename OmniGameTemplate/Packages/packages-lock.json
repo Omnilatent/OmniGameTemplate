@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.omnilatent.firebasemanager": {
-      "version": "https://github.com/Omnilatent/OmniFirebaseManager.git",
+      "version": "https://github.com/Omnilatent/OmniFirebaseManager.git#features/8.6.2",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "497d7c13a53d119af2a80d3791e6d607e2b7c3f3"
+      "hash": "0b7f159cbed3227e6b89b5f7ae178bccee87c8c7"
     },
     "com.omnilatent.litjson": {
       "version": "https://github.com/Omnilatent/UnityLitJson.git",

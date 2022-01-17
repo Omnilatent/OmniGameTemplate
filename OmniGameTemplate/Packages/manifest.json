@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.omnilatent.firebasemanager": "https://github.com/Omnilatent/OmniFirebaseManager.git",
+    "com.omnilatent.firebasemanager": "https://github.com/Omnilatent/OmniFirebaseManager.git#features/8.6.2",
     "com.omnilatent.litjson": "https://github.com/Omnilatent/UnityLitJson.git",
     "com.unity.2d.animation": "5.0.6",
     "com.unity.2d.pixel-perfect": "4.0.1",
