@@ -59,6 +59,10 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# Firebase large x86_64 (Windows) files
+**/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-8_*.bundle*
+**/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-8_*.so*
+
 # Crashlytics generated file
 crashlytics-build.properties
 
