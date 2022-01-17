@@ -2,28 +2,28 @@
   <packages>
     <package>com.google.android.gms:play-services-ads:20.0.0</package>
     <package>com.google.android.gms:play-services-base:17.6.0</package>
-    <package>com.google.firebase:firebase-analytics:18.0.3</package>
-    <package>com.google.firebase:firebase-analytics-unity:7.2.0</package>
-    <package>com.google.firebase:firebase-app-unity:7.2.0</package>
-    <package>com.google.firebase:firebase-common:19.5.0</package>
-    <package>com.google.firebase:firebase-config:20.0.4</package>
-    <package>com.google.firebase:firebase-config-unity:7.2.0</package>
-    <package>com.google.firebase:firebase-crashlytics:17.4.1</package>
-    <package>com.google.firebase:firebase-crashlytics-unity:7.2.0</package>
-    <package>com.google.firebase:firebase-installations:16.3.5</package>
-    <package>com.google.firebase:firebase-installations-unity:7.2.0</package>
+    <package>com.google.firebase:firebase-analytics:19.0.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:8.6.2</package>
+    <package>com.google.firebase:firebase-app-unity:8.6.2</package>
+    <package>com.google.firebase:firebase-common:20.0.0</package>
+    <package>com.google.firebase:firebase-config:21.0.0</package>
+    <package>com.google.firebase:firebase-config-unity:8.6.2</package>
+    <package>com.google.firebase:firebase-crashlytics-ndk:18.2.4</package>
+    <package>com.google.firebase:firebase-crashlytics-unity:8.6.2</package>
+    <package>com.google.firebase:firebase-installations:17.0.0</package>
+    <package>com.google.firebase:firebase-installations-unity:8.6.2</package>
   </packages>
   <files>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.2.0/firebase-analytics-unity-7.2.0.aar</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/7.2.0/firebase-analytics-unity-7.2.0.pom</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.2.0/firebase-app-unity-7.2.0.aar</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/7.2.0/firebase-app-unity-7.2.0.pom</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.2.0/firebase-config-unity-7.2.0.aar</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/7.2.0/firebase-config-unity-7.2.0.pom</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/7.2.0/firebase-crashlytics-unity-7.2.0.aar</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/7.2.0/firebase-crashlytics-unity-7.2.0.pom</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-installations-unity/7.2.0/firebase-installations-unity-7.2.0.aar</file>
-    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-installations-unity/7.2.0/firebase-installations-unity-7.2.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.6.2/firebase-analytics-unity-8.6.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/8.6.2/firebase-analytics-unity-8.6.2.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/8.6.2/firebase-app-unity-8.6.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/8.6.2/firebase-app-unity-8.6.2.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/8.6.2/firebase-config-unity-8.6.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/8.6.2/firebase-config-unity-8.6.2.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/8.6.2/firebase-crashlytics-unity-8.6.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/8.6.2/firebase-crashlytics-unity-8.6.2.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-installations-unity/8.6.2/firebase-installations-unity-8.6.2.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-installations-unity/8.6.2/firebase-installations-unity-8.6.2.pom</file>
   </files>
   <settings>
     <setting name="androidAbis" value="armeabi-v7a" />
