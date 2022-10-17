@@ -60,8 +60,9 @@ sysinfo.txt
 *.unitypackage
 
 # Firebase large x86_64 (Windows) files
-**/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-8_*.bundle*
-**/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-8_*.so*
+**/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-*.so
+**/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-*.so.meta
+**/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-*.bundle*
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -99,9 +100,14 @@ crashlytics-build.properties
 **/PaintIn3D/InGame/Examples/Textures.meta
 **/PaintIn3D/InGame/Examples/Materials.meta
 
+#Asset Hunter build info
+**/SerializedBuildInfo/Android_*.ahbuildinfo
+**/SerializedBuildInfo/iOS_*.ahbuildinfo
+
 #Others
 */Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml
 */Recordings/*
 /remote_config_data
 */Screenshots/*
 OmniAdsManager/Assets/Omnilatent/*
+**/Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Tools/bundletool-all.jar*
