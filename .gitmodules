@@ -2,3 +2,6 @@
 	path = Assets/Omnilatent/OmniAdsManager
 	url = https://github.com/Omnilatent/OmniAdsManager
 	branch = develop
+[submodule "GooglePackages"]
+	path = GooglePackages
+	url = https://gitlab.volio.vn/jacat-tech/GooglePackages.git
