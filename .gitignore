@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# Packages sub folders downloaded by Unity Package Manager
+/Packages/*/*
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -58,6 +61,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.unitypackage.meta
 
 # Firebase large x86_64 (Windows) files
 **/Assets/Firebase/Plugins/x86_64/FirebaseCppApp-*.so
@@ -104,6 +108,22 @@ crashlytics-build.properties
 **/SerializedBuildInfo/Android_*.ahbuildinfo
 **/SerializedBuildInfo/iOS_*.ahbuildinfo
 
+#Corgi Demos and large files
+**/Assets/CorgiEngine/Demos
+**/Assets/CorgiEngine/Common/Prefabs/Music
+**/Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMVFX/MMBloomDirt
+
+#Corgi generated data
+**/Assets/MMData/*
+**/Assets/MMData.meta
+
+#Sprite Shape samples
+Assets/Samples/2D SpriteShape/*
+Assets/Samples/2D SpriteShape.meta
+
+#Spine Examples
+**/Assets/Spine Examples*
+
 #Others
 */Assets/Plugins/Android/Firebase/res/values/crashlytics_build_id.xml
 */Recordings/*
@@ -111,3 +131,7 @@ crashlytics-build.properties
 */Screenshots/*
 OmniAdsManager/Assets/Omnilatent/*
 **/Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Tools/bundletool-all.jar*
+**/Assets/DinoFracture/Demo*
+**/Assets/Plugins/CW/PaintIn3D/Examples*
+.DS_Store
+Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_*.asset
