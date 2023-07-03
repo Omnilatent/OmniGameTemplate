@@ -1,0 +1,1 @@
+include: "/ci-template/.gitlab/.gitlab-ci.yml"
