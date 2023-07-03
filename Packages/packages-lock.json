@@ -1,5 +1,59 @@
 {
   "dependencies": {
+    "com.google.external-dependency-manager": {
+      "version": "file:../GooglePackages/com.google.external-dependency-manager-1.2.176.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.google.firebase.analytics": {
+      "version": "file:../GooglePackages/com.google.firebase.analytics-11.2.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "11.2.0"
+      }
+    },
+    "com.google.firebase.app": {
+      "version": "file:../GooglePackages/com.google.firebase.app-11.2.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.external-dependency-manager": "1.2.176"
+      }
+    },
+    "com.google.firebase.crashlytics": {
+      "version": "file:../GooglePackages/com.google.firebase.crashlytics-11.2.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "11.2.0"
+      }
+    },
+    "com.google.firebase.installations": {
+      "version": "file:../GooglePackages/com.google.firebase.installations-11.2.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "11.2.0"
+      }
+    },
+    "com.google.firebase.messaging": {
+      "version": "file:../GooglePackages/com.google.firebase.messaging-11.2.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "11.2.0"
+      }
+    },
+    "com.google.firebase.remote-config": {
+      "version": "file:../GooglePackages/com.google.firebase.remote-config-11.2.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "11.2.0"
+      }
+    },
     "com.omnilatent.firebasemanager": {
       "version": "https://github.com/Omnilatent/OmniFirebaseManager.git#features/8.6.2",
       "depth": 0,
