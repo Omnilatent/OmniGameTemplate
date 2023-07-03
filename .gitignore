@@ -135,3 +135,4 @@ OmniAdsManager/Assets/Omnilatent/*
 **/Assets/Plugins/CW/PaintIn3D/Examples*
 .DS_Store
 Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_*.asset
+Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/*/firebase-app-unity-*.aar
